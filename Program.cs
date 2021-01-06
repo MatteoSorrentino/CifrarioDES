@@ -62,6 +62,7 @@ namespace CifrarioDES
             Console.WriteLine(Encoding.ASCII.GetString(decData));
 
             Console.ReadLine();
+
         }
     }
 }
